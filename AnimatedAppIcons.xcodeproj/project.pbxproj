@@ -1,0 +1,534 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		020012A92BF3AEF200F9BE23 /* BeachBall015.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200128B2BF3AEF100F9BE23 /* BeachBall015.png */; };
+		020012AA2BF3AEF200F9BE23 /* BeachBall016.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200128C2BF3AEF100F9BE23 /* BeachBall016.png */; };
+		020012AB2BF3AEF200F9BE23 /* BeachBall014.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200128D2BF3AEF100F9BE23 /* BeachBall014.png */; };
+		020012AC2BF3AEF200F9BE23 /* BeachBall026.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200128E2BF3AEF100F9BE23 /* BeachBall026.png */; };
+		020012AD2BF3AEF200F9BE23 /* BeachBall027.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200128F2BF3AEF100F9BE23 /* BeachBall027.png */; };
+		020012AE2BF3AEF200F9BE23 /* BeachBall011.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012902BF3AEF100F9BE23 /* BeachBall011.png */; };
+		020012AF2BF3AEF200F9BE23 /* BeachBall025.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012912BF3AEF100F9BE23 /* BeachBall025.png */; };
+		020012B02BF3AEF200F9BE23 /* BeachBall021.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012922BF3AEF100F9BE23 /* BeachBall021.png */; };
+		020012B12BF3AEF200F9BE23 /* BeachBall004.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012932BF3AEF100F9BE23 /* BeachBall004.png */; };
+		020012B22BF3AEF200F9BE23 /* BeachBall005.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012942BF3AEF100F9BE23 /* BeachBall005.png */; };
+		020012B32BF3AEF200F9BE23 /* BeachBall001.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012952BF3AEF100F9BE23 /* BeachBall001.png */; };
+		020012B42BF3AEF200F9BE23 /* BeachBall024.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012962BF3AEF100F9BE23 /* BeachBall024.png */; };
+		020012B52BF3AEF200F9BE23 /* BeachBall009.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012972BF3AEF100F9BE23 /* BeachBall009.png */; };
+		020012B62BF3AEF200F9BE23 /* BeachBall013.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012982BF3AEF100F9BE23 /* BeachBall013.png */; };
+		020012B72BF3AEF200F9BE23 /* BeachBall028.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012992BF3AEF100F9BE23 /* BeachBall028.png */; };
+		020012B82BF3AEF200F9BE23 /* BeachBall029.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200129A2BF3AEF100F9BE23 /* BeachBall029.png */; };
+		020012B92BF3AEF200F9BE23 /* BeachBall018.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200129B2BF3AEF100F9BE23 /* BeachBall018.png */; };
+		020012BA2BF3AEF200F9BE23 /* BeachBall022.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200129C2BF3AEF100F9BE23 /* BeachBall022.png */; };
+		020012BB2BF3AEF200F9BE23 /* BeachBall002.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200129D2BF3AEF100F9BE23 /* BeachBall002.png */; };
+		020012BC2BF3AEF200F9BE23 /* BeachBall006.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200129E2BF3AEF100F9BE23 /* BeachBall006.png */; };
+		020012BD2BF3AEF200F9BE23 /* BeachBall017.png in Resources */ = {isa = PBXBuildFile; fileRef = 0200129F2BF3AEF100F9BE23 /* BeachBall017.png */; };
+		020012BE2BF3AEF200F9BE23 /* BeachBall020.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A02BF3AEF100F9BE23 /* BeachBall020.png */; };
+		020012BF2BF3AEF200F9BE23 /* BeachBall000.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A12BF3AEF100F9BE23 /* BeachBall000.png */; };
+		020012C02BF3AEF200F9BE23 /* BeachBall003.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A22BF3AEF100F9BE23 /* BeachBall003.png */; };
+		020012C12BF3AEF200F9BE23 /* BeachBall023.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A32BF3AEF100F9BE23 /* BeachBall023.png */; };
+		020012C22BF3AEF200F9BE23 /* BeachBall007.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A42BF3AEF100F9BE23 /* BeachBall007.png */; };
+		020012C32BF3AEF200F9BE23 /* BeachBall010.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A52BF3AEF100F9BE23 /* BeachBall010.png */; };
+		020012C42BF3AEF200F9BE23 /* BeachBall019.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A62BF3AEF100F9BE23 /* BeachBall019.png */; };
+		020012C52BF3AEF200F9BE23 /* BeachBall012.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A72BF3AEF100F9BE23 /* BeachBall012.png */; };
+		020012C62BF3AEF200F9BE23 /* BeachBall008.png in Resources */ = {isa = PBXBuildFile; fileRef = 020012A82BF3AEF100F9BE23 /* BeachBall008.png */; };
+		020012C82BF3B4BA00F9BE23 /* IconAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020012C72BF3B4BA00F9BE23 /* IconAnimator.swift */; };
+		02180E0F2BF164180072AB7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02180E0E2BF164180072AB7A /* AppDelegate.swift */; };
+		02180E112BF164180072AB7A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02180E102BF164180072AB7A /* SceneDelegate.swift */; };
+		02180E132BF164180072AB7A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02180E122BF164180072AB7A /* ViewController.swift */; };
+		02180E162BF164180072AB7A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 02180E152BF164180072AB7A /* Base */; };
+		02180E1B2BF164190072AB7A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 02180E1A2BF164190072AB7A /* Base */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0200128B2BF3AEF100F9BE23 /* BeachBall015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall015.png; sourceTree = "<group>"; };
+		0200128C2BF3AEF100F9BE23 /* BeachBall016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall016.png; sourceTree = "<group>"; };
+		0200128D2BF3AEF100F9BE23 /* BeachBall014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall014.png; sourceTree = "<group>"; };
+		0200128E2BF3AEF100F9BE23 /* BeachBall026.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall026.png; sourceTree = "<group>"; };
+		0200128F2BF3AEF100F9BE23 /* BeachBall027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall027.png; sourceTree = "<group>"; };
+		020012902BF3AEF100F9BE23 /* BeachBall011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall011.png; sourceTree = "<group>"; };
+		020012912BF3AEF100F9BE23 /* BeachBall025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall025.png; sourceTree = "<group>"; };
+		020012922BF3AEF100F9BE23 /* BeachBall021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall021.png; sourceTree = "<group>"; };
+		020012932BF3AEF100F9BE23 /* BeachBall004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall004.png; sourceTree = "<group>"; };
+		020012942BF3AEF100F9BE23 /* BeachBall005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall005.png; sourceTree = "<group>"; };
+		020012952BF3AEF100F9BE23 /* BeachBall001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall001.png; sourceTree = "<group>"; };
+		020012962BF3AEF100F9BE23 /* BeachBall024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall024.png; sourceTree = "<group>"; };
+		020012972BF3AEF100F9BE23 /* BeachBall009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall009.png; sourceTree = "<group>"; };
+		020012982BF3AEF100F9BE23 /* BeachBall013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall013.png; sourceTree = "<group>"; };
+		020012992BF3AEF100F9BE23 /* BeachBall028.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall028.png; sourceTree = "<group>"; };
+		0200129A2BF3AEF100F9BE23 /* BeachBall029.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall029.png; sourceTree = "<group>"; };
+		0200129B2BF3AEF100F9BE23 /* BeachBall018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall018.png; sourceTree = "<group>"; };
+		0200129C2BF3AEF100F9BE23 /* BeachBall022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall022.png; sourceTree = "<group>"; };
+		0200129D2BF3AEF100F9BE23 /* BeachBall002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall002.png; sourceTree = "<group>"; };
+		0200129E2BF3AEF100F9BE23 /* BeachBall006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall006.png; sourceTree = "<group>"; };
+		0200129F2BF3AEF100F9BE23 /* BeachBall017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall017.png; sourceTree = "<group>"; };
+		020012A02BF3AEF100F9BE23 /* BeachBall020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall020.png; sourceTree = "<group>"; };
+		020012A12BF3AEF100F9BE23 /* BeachBall000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall000.png; sourceTree = "<group>"; };
+		020012A22BF3AEF100F9BE23 /* BeachBall003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall003.png; sourceTree = "<group>"; };
+		020012A32BF3AEF100F9BE23 /* BeachBall023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall023.png; sourceTree = "<group>"; };
+		020012A42BF3AEF100F9BE23 /* BeachBall007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall007.png; sourceTree = "<group>"; };
+		020012A52BF3AEF100F9BE23 /* BeachBall010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall010.png; sourceTree = "<group>"; };
+		020012A62BF3AEF100F9BE23 /* BeachBall019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall019.png; sourceTree = "<group>"; };
+		020012A72BF3AEF100F9BE23 /* BeachBall012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall012.png; sourceTree = "<group>"; };
+		020012A82BF3AEF100F9BE23 /* BeachBall008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BeachBall008.png; sourceTree = "<group>"; };
+		020012C72BF3B4BA00F9BE23 /* IconAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconAnimator.swift; sourceTree = "<group>"; };
+		02180E0B2BF164180072AB7A /* AnimatedAppIcons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimatedAppIcons.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		02180E0E2BF164180072AB7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		02180E102BF164180072AB7A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		02180E122BF164180072AB7A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		02180E152BF164180072AB7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		02180E1A2BF164190072AB7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		02180E1C2BF164190072AB7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02180E272BF1930C0072AB7A /* AnimatedAppIcons-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AnimatedAppIcons-Bridging-Header.h"; sourceTree = "<group>"; };
+		02DA42E82C024565004C0156 /* LSApplicationProxy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSApplicationProxy.h; sourceTree = "<group>"; };
+		02DA42E92C02458B004C0156 /* LSBundleProxy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSBundleProxy.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		02180E082BF164180072AB7A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		02180E022BF164180072AB7A = {
+			isa = PBXGroup;
+			children = (
+				02180E0D2BF164180072AB7A /* AnimatedAppIcons */,
+				02180E0C2BF164180072AB7A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		02180E0C2BF164180072AB7A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				02180E0B2BF164180072AB7A /* AnimatedAppIcons.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		02180E0D2BF164180072AB7A /* AnimatedAppIcons */ = {
+			isa = PBXGroup;
+			children = (
+				020012C72BF3B4BA00F9BE23 /* IconAnimator.swift */,
+				02180E122BF164180072AB7A /* ViewController.swift */,
+				02DA42E72C02455A004C0156 /* Headers */,
+				02180E242BF1717E0072AB7A /* Icons */,
+				02DA42E62C023DB4004C0156 /* Supporting Files */,
+			);
+			path = AnimatedAppIcons;
+			sourceTree = "<group>";
+		};
+		02180E242BF1717E0072AB7A /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				020012A12BF3AEF100F9BE23 /* BeachBall000.png */,
+				020012952BF3AEF100F9BE23 /* BeachBall001.png */,
+				0200129D2BF3AEF100F9BE23 /* BeachBall002.png */,
+				020012A22BF3AEF100F9BE23 /* BeachBall003.png */,
+				020012932BF3AEF100F9BE23 /* BeachBall004.png */,
+				020012942BF3AEF100F9BE23 /* BeachBall005.png */,
+				0200129E2BF3AEF100F9BE23 /* BeachBall006.png */,
+				020012A42BF3AEF100F9BE23 /* BeachBall007.png */,
+				020012A82BF3AEF100F9BE23 /* BeachBall008.png */,
+				020012972BF3AEF100F9BE23 /* BeachBall009.png */,
+				020012A52BF3AEF100F9BE23 /* BeachBall010.png */,
+				020012902BF3AEF100F9BE23 /* BeachBall011.png */,
+				020012A72BF3AEF100F9BE23 /* BeachBall012.png */,
+				020012982BF3AEF100F9BE23 /* BeachBall013.png */,
+				0200128D2BF3AEF100F9BE23 /* BeachBall014.png */,
+				0200128B2BF3AEF100F9BE23 /* BeachBall015.png */,
+				0200128C2BF3AEF100F9BE23 /* BeachBall016.png */,
+				0200129F2BF3AEF100F9BE23 /* BeachBall017.png */,
+				0200129B2BF3AEF100F9BE23 /* BeachBall018.png */,
+				020012A62BF3AEF100F9BE23 /* BeachBall019.png */,
+				020012A02BF3AEF100F9BE23 /* BeachBall020.png */,
+				020012922BF3AEF100F9BE23 /* BeachBall021.png */,
+				0200129C2BF3AEF100F9BE23 /* BeachBall022.png */,
+				020012A32BF3AEF100F9BE23 /* BeachBall023.png */,
+				020012962BF3AEF100F9BE23 /* BeachBall024.png */,
+				020012912BF3AEF100F9BE23 /* BeachBall025.png */,
+				0200128E2BF3AEF100F9BE23 /* BeachBall026.png */,
+				0200128F2BF3AEF100F9BE23 /* BeachBall027.png */,
+				020012992BF3AEF100F9BE23 /* BeachBall028.png */,
+				0200129A2BF3AEF100F9BE23 /* BeachBall029.png */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		02DA42E62C023DB4004C0156 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				02180E0E2BF164180072AB7A /* AppDelegate.swift */,
+				02180E102BF164180072AB7A /* SceneDelegate.swift */,
+				02180E272BF1930C0072AB7A /* AnimatedAppIcons-Bridging-Header.h */,
+				02180E192BF164190072AB7A /* LaunchScreen.storyboard */,
+				02180E142BF164180072AB7A /* Main.storyboard */,
+				02180E1C2BF164190072AB7A /* Info.plist */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		02DA42E72C02455A004C0156 /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				02DA42E82C024565004C0156 /* LSApplicationProxy.h */,
+				02DA42E92C02458B004C0156 /* LSBundleProxy.h */,
+			);
+			path = Headers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		02180E0A2BF164180072AB7A /* AnimatedAppIcons */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 02180E1F2BF164190072AB7A /* Build configuration list for PBXNativeTarget "AnimatedAppIcons" */;
+			buildPhases = (
+				02180E072BF164180072AB7A /* Sources */,
+				02180E082BF164180072AB7A /* Frameworks */,
+				02180E092BF164180072AB7A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AnimatedAppIcons;
+			productName = AnimatedAppIcons;
+			productReference = 02180E0B2BF164180072AB7A /* AnimatedAppIcons.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		02180E032BF164180072AB7A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					02180E0A2BF164180072AB7A = {
+						CreatedOnToolsVersion = 15.3;
+						LastSwiftMigration = 1530;
+					};
+				};
+			};
+			buildConfigurationList = 02180E062BF164180072AB7A /* Build configuration list for PBXProject "AnimatedAppIcons" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 02180E022BF164180072AB7A;
+			productRefGroup = 02180E0C2BF164180072AB7A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				02180E0A2BF164180072AB7A /* AnimatedAppIcons */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		02180E092BF164180072AB7A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				020012B72BF3AEF200F9BE23 /* BeachBall028.png in Resources */,
+				020012B02BF3AEF200F9BE23 /* BeachBall021.png in Resources */,
+				020012C12BF3AEF200F9BE23 /* BeachBall023.png in Resources */,
+				020012B82BF3AEF200F9BE23 /* BeachBall029.png in Resources */,
+				020012C22BF3AEF200F9BE23 /* BeachBall007.png in Resources */,
+				020012C42BF3AEF200F9BE23 /* BeachBall019.png in Resources */,
+				020012AD2BF3AEF200F9BE23 /* BeachBall027.png in Resources */,
+				020012B22BF3AEF200F9BE23 /* BeachBall005.png in Resources */,
+				020012BF2BF3AEF200F9BE23 /* BeachBall000.png in Resources */,
+				020012C62BF3AEF200F9BE23 /* BeachBall008.png in Resources */,
+				020012BA2BF3AEF200F9BE23 /* BeachBall022.png in Resources */,
+				020012B92BF3AEF200F9BE23 /* BeachBall018.png in Resources */,
+				020012B12BF3AEF200F9BE23 /* BeachBall004.png in Resources */,
+				020012AB2BF3AEF200F9BE23 /* BeachBall014.png in Resources */,
+				020012C32BF3AEF200F9BE23 /* BeachBall010.png in Resources */,
+				020012BD2BF3AEF200F9BE23 /* BeachBall017.png in Resources */,
+				020012B62BF3AEF200F9BE23 /* BeachBall013.png in Resources */,
+				020012BE2BF3AEF200F9BE23 /* BeachBall020.png in Resources */,
+				020012B52BF3AEF200F9BE23 /* BeachBall009.png in Resources */,
+				020012C02BF3AEF200F9BE23 /* BeachBall003.png in Resources */,
+				020012AF2BF3AEF200F9BE23 /* BeachBall025.png in Resources */,
+				020012C52BF3AEF200F9BE23 /* BeachBall012.png in Resources */,
+				020012AA2BF3AEF200F9BE23 /* BeachBall016.png in Resources */,
+				020012AE2BF3AEF200F9BE23 /* BeachBall011.png in Resources */,
+				02180E1B2BF164190072AB7A /* Base in Resources */,
+				020012BC2BF3AEF200F9BE23 /* BeachBall006.png in Resources */,
+				02180E162BF164180072AB7A /* Base in Resources */,
+				020012B32BF3AEF200F9BE23 /* BeachBall001.png in Resources */,
+				020012B42BF3AEF200F9BE23 /* BeachBall024.png in Resources */,
+				020012A92BF3AEF200F9BE23 /* BeachBall015.png in Resources */,
+				020012AC2BF3AEF200F9BE23 /* BeachBall026.png in Resources */,
+				020012BB2BF3AEF200F9BE23 /* BeachBall002.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		02180E072BF164180072AB7A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				020012C82BF3B4BA00F9BE23 /* IconAnimator.swift in Sources */,
+				02180E132BF164180072AB7A /* ViewController.swift in Sources */,
+				02180E0F2BF164180072AB7A /* AppDelegate.swift in Sources */,
+				02180E112BF164180072AB7A /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		02180E142BF164180072AB7A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				02180E152BF164180072AB7A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		02180E192BF164190072AB7A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				02180E1A2BF164190072AB7A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		02180E1D2BF164190072AB7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		02180E1E2BF164190072AB7A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		02180E202BF164190072AB7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "AnimatedAppIcons/Supporting Files/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "App Icons";
+				INFOPLIST_KEY_LSApplicationCategoryType = NO;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-w",
+					"-Wl,-U,_OBJC_CLASS_$_LSBundleProxy",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = co.bryce.AnimatedAppIcons;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "AnimatedAppIcons/Supporting Files/AnimatedAppIcons-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		02180E212BF164190072AB7A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "AnimatedAppIcons/Supporting Files/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "App Icons";
+				INFOPLIST_KEY_LSApplicationCategoryType = NO;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-w",
+					"-Wl,-U,_OBJC_CLASS_$_LSBundleProxy",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = co.bryce.AnimatedAppIcons;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "AnimatedAppIcons/Supporting Files/AnimatedAppIcons-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		02180E062BF164180072AB7A /* Build configuration list for PBXProject "AnimatedAppIcons" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02180E1D2BF164190072AB7A /* Debug */,
+				02180E1E2BF164190072AB7A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		02180E1F2BF164190072AB7A /* Build configuration list for PBXNativeTarget "AnimatedAppIcons" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02180E202BF164190072AB7A /* Debug */,
+				02180E212BF164190072AB7A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 02180E032BF164180072AB7A /* Project object */;
+}
